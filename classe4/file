@@ -1,0 +1,2 @@
+file=open('prueba.txt','r')
+print(file.read())
