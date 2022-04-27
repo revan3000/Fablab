@@ -1,9 +1,9 @@
 from random import randint
-contraseña='hololo'
 import piedra_papel_tijera
 import bar
 import pokedex
 
+contraseña='hololo'
 user_password=input('ingresar contraseña : ')
 on=True
 while on == True:

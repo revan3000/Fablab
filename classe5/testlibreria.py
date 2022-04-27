@@ -1,4 +1,4 @@
-from tkinter import Tk, Text
+		from tkinter import Tk, Text
 
 root = Tk()
 root.resizable(False, False)

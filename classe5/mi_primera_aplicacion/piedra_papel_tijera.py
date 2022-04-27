@@ -1,3 +1,4 @@
+from random import randint
 def mi_juego():
 	x=['piedra','papel','tijera']
 	partida=True 
